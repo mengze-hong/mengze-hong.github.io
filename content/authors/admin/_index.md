@@ -174,4 +174,5 @@ languages:
 
 ## About Me
 
-Mengze Hong is a research student at PolyU, in collaboration with WeBank AI Group, a leading research lab for technology-driven financial ecosystems. His research focuses on the technical innovations and practical applications of various Large Language Models (LLMs) and Trustworthy AI methods, aiming to create positive impacts at the intersection of computer technologies and the banking industry. His work in customer service support and chatbot systems has gained wide recognition for addressing common challenges such as customer intent discovery, automated service rating, and zero-hallucination generation in the financial domain.
+Mengze Hong is a research student at PolyU, in collaboration with WeBank AI Group, a leading research lab for technology-driven financial ecosystems. His research focuses on the technical innovations and practical applications of various Large Language Models (LLMs) and Trustworthy AI methods, aiming to create positive impacts at the intersection of computer technologies and the banking industry. 
+<!-- His work in customer service support and chatbot systems has gained wide recognition for addressing common challenges such as customer intent discovery, automated service rating, and zero-hallucination generation in the financial domain. -->
