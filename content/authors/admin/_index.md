@@ -48,7 +48,7 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Large Language Models
+  - Large Language Models (LLMs)
   - Natural Language Processing
   - Database & Crowdsourcing
 
