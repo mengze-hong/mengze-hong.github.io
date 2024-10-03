@@ -26,7 +26,7 @@ abstract: Batch prompting is a common technique in large language models (LLMs) 
 summary: 
 
 tags:
--Large Language Models
+- Large Language Models
 
 featured: true
 
