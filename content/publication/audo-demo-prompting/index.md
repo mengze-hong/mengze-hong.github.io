@@ -1,12 +1,11 @@
 ---
-title: "Neural-Bayesian Program Learning for Few-shot Dialogue Intent Parsing"
+title: "Auto-Demo Prompting: Leveraging Generated Outputs as Demonstrations for Enhanced Batch Prompting"
 authors:
-  - admin
-  - Yuanfeng Song
-  - Di Jiang
-  - Chen Jason Zhang
-  
-date: "2024-10-06T00:00:00Z"
+- Longyu Feng
+- admin
+- Chen Jason Zhang
+
+date: "2024-10-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,20 +20,20 @@ publication_types: ["article"]
 publication: "arxiv"
 publication_short: ""
 
-abstract: With the growing importance of customer service in contemporary business, recognizing the intents behind service dialogues has become essential for the strategic success of enterprises. However, the nature of dialogue data varies significantly across different scenarios, and implementing an intent parser for a specific domain often involves tedious feature engineering and a heavy workload of data labeling. In this paper, we propose a novel Neural-Bayesian Program Learning model named Dialogue-Intent Parser (DI-Parser), which specializes in intent parsing under data-hungry settings and offers promising performance improvements. DI-Parser effectively utilizes data from multiple sources in a "Learning to Learn" manner and harnesses the "wisdom of the crowd" through few-shot learning capabilities on human-annotated datasets. Experimental results demonstrate that DI-Parser outperforms state-of-the-art deep learning models and offers practical advantages for industrial-scale applications.
+abstract: Batch prompting is a common technique in large language models (LLMs) used to process multiple inputs simultaneously, aiming to improve computational efficiency. However, as batch sizes increase, performance degradation often occurs due to the model's difficulty in handling lengthy context inputs. Existing methods that attempt to mitigate these issues rely solely on batch data arrangement and majority voting rather than improving the design of the batch prompt itself. In this paper, we address these limitations by proposing "Auto-Demo Prompting," a novel approach that leverages the question-output pairs from earlier questions within a batch as demonstrations for subsequent answer inference. We provide a formal theoretical analysis of how Auto-Demo Prompting functions within the autoregressive generation process of LLMs, illustrating how it utilizes prior outputs to optimize the model's internal representations. Our method effectively bridges the gap between batch prompting and few-shot prompting, enhancing performance with only a slight compromise in token usage. Experimental results across five NLP tasks demonstrate its effectiveness in mitigating performance degradation and occasionally outperforming single prompts. Furthermore, it opens new avenues for applying few-shot learning techniques, such as demonstration selection, within batch prompting, making it a robust solution for real-world applications. 
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Natural Language Processing
+- Large Language Models
 
 featured: true
 
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://arxiv.org/abs/2410.06190'
+url_pdf: 'https://arxiv.org/abs/2410.01724'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
@@ -46,7 +45,7 @@ url_pdf: 'https://arxiv.org/abs/2410.06190'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Graphical model of our proposed DI-Parser, whose learning process is initialized by learning to learn.'
+  caption: 'Auto-Demo Prompting: Single prompts are combined into a batch prompt with a special output control for generating question-answer pairs, along with optional batch data selection. This prompt is fed into the autoregressive generation process of a decoder-only LLM, forming demonstrations for subsequent generation'
   focal_point: ""
   preview_only: false
 
