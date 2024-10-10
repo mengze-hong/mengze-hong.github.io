@@ -58,7 +58,7 @@ education:
     date_start: 2024-09-01
     date_end: 2026-06-01
     summary: |
-      Supervised by [Dr Zhang Chen](https://scholar.google.com.hk/citations?user=U6-ouN0AAAAJ&hl=zh-CN) and [Prof Li Qing](https://scholar.google.com/citations?user=D1LEg-YAAAAJ&hl=en).
+      Supervised by Dr Zhang Chen and Prof Li Qing.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
