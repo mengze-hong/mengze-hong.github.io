@@ -58,7 +58,7 @@ education:
     date_start: 2024-09-01
     date_end: 2026-06-01
     summary: |
-      Supervised by [Dr. Zhang Chen](https://scholar.google.com.hk/citations?user=U6-ouN0AAAAJ&hl=zh-CN) and [Prof. Li Qing](https://scholar.google.com/citations?user=D1LEg-YAAAAJ&hl=en).
+      Supervised by [Dr Zhang Chen](https://scholar.google.com.hk/citations?user=U6-ouN0AAAAJ&hl=zh-CN) and [Prof Li Qing](https://scholar.google.com/citations?user=D1LEg-YAAAAJ&hl=en).
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -67,14 +67,9 @@ education:
     date_start: 2021-09-01
     date_end: 2024-06-01
     summary: |
-      First Class Degree (GPA: 3.94 / 4)
-      Dean's Excellence Scholarship Award
-      Best Student Award
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - First Class Degree (GPA: 3.94 / 4)
+      - Dean's Excellence Scholarship Award
+      - Best Student Award
 work:
   - position: AI Researcher (Intern)
     company_name: WeBank AI Group
@@ -82,21 +77,21 @@ work:
     company_logo: ''
     date_start: 2024-06-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - Carried out large-scale industrial data processing and modelling.
-      - Developed customer service chatbots for banking service using Large Language Models.
+    # summary: |2-
+    #   Responsibilities include:
+    #   - Carried out large-scale industrial data processing and modelling.
+    #   - Developed customer service chatbots for banking service using Large Language Models.
   - position: Strategic Analyst (Intern)
     company_name: Luckin Coffee Inc.
     company_url: 'https://www.luckincoffee.com/'
     company_logo: ''
     date_start: 2023-06-01
     date_end: 2023-09-01
-    summary: |
-      Responsibilities include:
-      - Analyzed the Chinese coffee market  to provide strategic insights for informed decision-making.
-      - Predicted the coffee market trend in Singapore  to reveal optimal oversea expansion strategies.
-      - Extracted and analyzed large datasets using Python and web scraping techniques.
+    # summary: |
+    #   Responsibilities include:
+    #   - Analyzed the Chinese coffee market  to provide strategic insights for informed decision-making.
+    #   - Predicted the coffee market trend in Singapore  to reveal optimal oversea expansion strategies.
+    #   - Extracted and analyzed large datasets using Python and web scraping techniques.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
