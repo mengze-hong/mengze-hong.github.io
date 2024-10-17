@@ -21,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MPhil Student
+role: Research Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
