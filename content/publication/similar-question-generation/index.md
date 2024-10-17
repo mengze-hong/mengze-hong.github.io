@@ -1,11 +1,14 @@
 ---
-title: "Auto-Demo Prompting: Leveraging Generated Outputs as Demonstrations for Enhanced Batch Prompting"
+title: "Expanding Chatbot Knowledge in Customer Service: Context-Aware Similar Question Generation Using Large Language Models"
 authors:
-- Longyu Feng
 - admin
+- Yuanfeng Song
+- Di Jiang
+- Lu Wang
+- Zichang Guo
 - Chen Jason Zhang
 
-date: "2024-10-02T00:00:00Z"
+date: "2024-10-016T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
