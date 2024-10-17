@@ -20,7 +20,7 @@ publication_types: ["article"]
 publication: "arxiv"
 publication_short: ""
 
-abstract: Batch prompting is a common technique in large language models (LLMs) used to process multiple inputs simultaneously, aiming to improve computational efficiency. However, as batch sizes increase, performance degradation often occurs due to the model's difficulty in handling lengthy context inputs. Existing methods that attempt to mitigate these issues rely solely on batch data arrangement and majority voting rather than improving the design of the batch prompt itself. In this paper, we address these limitations by proposing "Auto-Demo Prompting," a novel approach that leverages the question-output pairs from earlier questions within a batch as demonstrations for subsequent answer inference. We provide a formal theoretical analysis of how Auto-Demo Prompting functions within the autoregressive generation process of LLMs, illustrating how it utilizes prior outputs to optimize the model's internal representations. Our method effectively bridges the gap between batch prompting and few-shot prompting, enhancing performance with only a slight compromise in token usage. Experimental results across five NLP tasks demonstrate its effectiveness in mitigating performance degradation and occasionally outperforming single prompts. Furthermore, it opens new avenues for applying few-shot learning techniques, such as demonstration selection, within batch prompting, making it a robust solution for real-world applications. 
+abstract: Reliable responses of service chatbots are often achieved by employing retrieval-based methods that restrict answers to a knowledge base comprising predefined question-answer pairs (QA pairs). To accommodate potential variations in how a customer's query may be expressed, it emerges as the favored solution to augment these QA pairs with similar questions that are possibly diverse while remaining semantic consistency. This augmentation task is known as Similar Question Generation (SQG). Traditional methods that heavily rely on human efforts or rule-based techniques suffer from limited diversity or significant semantic deviation from the source question, only capable of producing a finite number of useful questions. To address these limitations, we propose an SQG approach based on Large Language Models (LLMs), capable of producing a substantial number of diverse questions while maintaining semantic consistency to the source QA pair. This is achieved by leveraging LLMs' natural language understanding capability through fine-tuning with specially designed prompts. The experiments conducted on a real customer-service dataset demonstrate that our method surpasses baseline methods by a significant margin in terms of semantic diversity. Human evaluation further confirms that integrating the answer that reflects the customer's intention is crucial for increasing the number of generated questions that meet business requirements.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -31,9 +31,9 @@ tags:
 featured: true
 
 links:
-- name: Cited by 1
+# - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://arxiv.org/abs/2410.01724'
+url_pdf: 'https://arxiv.org/abs/2410.12444'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
@@ -45,7 +45,7 @@ url_pdf: 'https://arxiv.org/abs/2410.01724'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Auto-Demo Prompting: Single prompts are combined into a batch prompt with a special output control for generating question-answer pairs, along with optional batch data selection. This prompt is fed into the autoregressive generation process of a decoder-only LLM, forming demonstrations for subsequent generation'
+  caption: "Simplified schematic overview of a chatbot based on a knowledge base that consists of a set of QA pairs. The yellow region highlights the questions augmented by the similar question generation method. The incoming customer's request is matched with the questions in QA pairs. Then the answer to the best-matched question is selected as the response to the customer."
   focal_point: ""
   preview_only: false
 

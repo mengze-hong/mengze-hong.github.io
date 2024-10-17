@@ -30,18 +30,18 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        I'm a passionate research student dedicated to developing trustworthy AI systems with LLMs. My research is grounded in the LLM-in-the-loop technique, which incorporates the human-like capabilities of LLMs into traditional data mining pipelines for enhanced performance and interpretability.
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       I'm a passionate research student dedicated to developing trustworthy AI systems with LLMs. My research is grounded in the LLM-in-the-loop technique, which incorporates the human-like capabilities of LLMs into traditional data mining pipelines for enhanced performance and interpretability.
 
-        In addition to theoretical research, I apply a range of optimization methods to comprehensively investigate the role of computer technologies in the banking industry, with a particular focus on customer service support systems.
+  #       In addition to theoretical research, I apply a range of optimization methods to comprehensively investigate the role of computer technologies in the banking industry, with a particular focus on customer service support systems.
         
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+  #       Please reach out to collaborate 😃
+  #   design:
+  #     columns: '1'
   - block: collection
     id: papers
     content:
