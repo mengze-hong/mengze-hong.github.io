@@ -43,11 +43,11 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+# - name: Source
+#   url: 'https://proceedings.mlr.press/v260/hong25a.html'
 
-url_pdf: 'https://arxiv.org/abs/2409.19689'
+url_pdf: 'https://proceedings.mlr.press/v260/hong25a.html'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''

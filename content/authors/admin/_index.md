@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 洪梦泽
+title: Mengze Hong
 
 # Name pronunciation (optional)
-name_pronunciation: Mengze Hong
+# name_pronunciation: Mengze Hong
 
 # Full name (for SEO)
 first_name: Mengze
@@ -58,7 +58,7 @@ education:
     date_start: 2024-09-01
     date_end: 2026-06-01
     summary: |
-      Supervised by Dr Zhang Chen and Prof Li Qing.
+      Supervised by Prof Li Qing and Dr Zhang Chen.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'

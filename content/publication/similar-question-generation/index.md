@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arxiv"
+publication: "preprint"
 publication_short: ""
 
 abstract: Reliable responses of service chatbots are often achieved by employing retrieval-based methods that restrict answers to a knowledge base comprising predefined question-answer pairs (QA pairs). To accommodate potential variations in how a customer's query may be expressed, it emerges as the favored solution to augment these QA pairs with similar questions that are possibly diverse while remaining semantic consistency. This augmentation task is known as Similar Question Generation (SQG). Traditional methods that heavily rely on human efforts or rule-based techniques suffer from limited diversity or significant semantic deviation from the source question, only capable of producing a finite number of useful questions. To address these limitations, we propose an SQG approach based on Large Language Models (LLMs), capable of producing a substantial number of diverse questions while maintaining semantic consistency to the source QA pair. This is achieved by leveraging LLMs' natural language understanding capability through fine-tuning with specially designed prompts. The experiments conducted on a real customer-service dataset demonstrate that our method surpasses baseline methods by a significant margin in terms of semantic diversity. Human evaluation further confirms that integrating the answer that reflects the customer's intention is crucial for increasing the number of generated questions that meet business requirements.
