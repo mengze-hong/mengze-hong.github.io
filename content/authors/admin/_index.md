@@ -53,40 +53,38 @@ interests:
   - Database & Crowdsourcing
 
 education:
-  - area: MPhil in Computing
+  - area: PhD in Computing
     institution: Hong Kong Polytechnic University
-    date_start: 2024-09-01
-    date_end: 2026-06-01
     summary: |
-      Supervised by Prof Li Qing and Dr Zhang Chen.
+      - Supervised by Prof Li Qing and Dr Zhang Chen.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: BSc (Hons) Maths and Data Science
+  - area: BSc (Hons) in Maths and Data Science
     institution: University of Nottingham
-    date_start: 2021-09-01
-    date_end: 2024-06-01
+    # date_start: 2021-09-01
+    # date_end: 2024-06-01
     summary: |
-      - First Class Degree (GPA: 3.94 / 4)
+      - First Class Honours Degree (GPA: 3.94 / 4)
       - Dean's Excellence Scholarship Award
       - Best Student Award
 work:
-  - position: AI Researcher (Intern)
+  - position: AI Researcher
     company_name: WeBank AI Group
     company_url: 'https://www.webank.com/en/'
     company_logo: ''
-    date_start: 2024-06-01
-    date_end: ''
+    # date_start: 2024-06-01
+    # date_end: ''
     # summary: |2-
     #   Responsibilities include:
     #   - Carried out large-scale industrial data processing and modelling.
     #   - Developed customer service chatbots for banking service using Large Language Models.
-  - position: Strategic Analyst (Intern)
+  - position: Strategy Analyst
     company_name: Luckin Coffee Inc.
     company_url: 'https://www.luckincoffee.com/'
     company_logo: ''
-    date_start: 2023-06-01
-    date_end: 2023-09-01
+    # date_start: 2023-06-01
+    # date_end: 2023-09-01
     # summary: |
     #   Responsibilities include:
     #   - Analyzed the Chinese coffee market  to provide strategic insights for informed decision-making.
