@@ -1,5 +1,5 @@
 ---
-title: 'Towards LLM-in-the-Loop Machine Learning for Future Applications'
+title: 'LLM-in-the-Loop: Replicating Human Insight with LLMs for Better Machine Learning Applications'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,17 +8,16 @@ authors:
   - admin
   - Wailing Ng
   - Yifei Wang
-  - Di Jiang
-  - Yuanfeng Song
   - Chen Jason Zhang
-  - Lei Chen
+  - Yuanfeng Song
+  - Di Jiang
   
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-01-31T00:00:00Z'
+date: '2025-05-31T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -33,7 +32,7 @@ publication_types: ['paper-conference']
 publication: "preprint"
 publication_short: ""
 
-abstract: Building on the success of human-in-the-loop, where human wisdom is integrated into the development of machine learning algorithms, we take the initiative to envision an innovative and promising paradigm, **LLM-in-the-loop (LLM-ITL)**, which leverages the unique advantages of LLMs to replicate human involvement and offer a more flexible and cost-efficient solution to real-world challenges. Through a comprehensive review of LLM research from 2020 to 2024, we reveal that many existing LLM applications inherently align with LLM-ITL, with researchers rapidly claiming their superiority over machine learning baselines and LLM-native solutions; however, no universal definition exists, hindering its further advancement and application. In this paper, we define and categorize LLM-ITL methodologies for data, model, and task-centric applications, discuss their underlying rationale, and highlight emerging areas where LLMs can be further integrated into the loop. Furthermore, we present opportunities for developing better LLM-ITL solutions with technical advancements, such as LLM crowdsourcing and text-to-solution, establishing the proposed paradigm as a promising avenue for the future of LLM applications and machine learning research.
+abstract: Building on the success of human-in-the-loop, where human wisdom is integrated into the development of machine learning algorithms, we take the initiative to envision an innovative and promising paradigm, LLM-in-the-loop (LLM-ITL), which leverages the unique advantages of LLMs to replicate human involvement and offer a more flexible and cost-efficient solution to real-world challenges. Through a comprehensive review of LLM research from 2020 to 2025, we reveal that many existing LLM applications inherently align with LLM-ITL, with researchers rapidly claiming their superiority over machine learning baselines and LLM-native solutions; however, no universal definition exists, hindering its further advancement and application. In this paper, we define and categorize LLM-ITL methodologies for data, model, and task-centric applications, discuss their underlying rationale, and highlight emerging areas where LLMs can be further integrated into the loop. Furthermore, we present opportunities for developing better LLM-ITL solutions with technical advancements, such as LLM crowdsourcing and text-to-solution, establishing the proposed paradigm as a promising avenue for the future of LLM applications and machine learning research.
 
 # Summary. An optional shortened abstract.
 

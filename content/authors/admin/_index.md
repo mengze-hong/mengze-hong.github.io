@@ -21,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Student
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -38,29 +38,29 @@ profiles:
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=2_sHYb0AAAAJ&hl=en
   - icon: brands/github
     url: https://github.com/mengze-hong
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/hong-mengze/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=2_sHYb0AAAAJ&hl=en
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
-interests:
-  - Large Language Models (LLMs)
-  - Natural Language Processing
-  - Database & Crowdsourcing
+research:
+  - NLP and Data Mining
+  - LLM-in-the-Loop Methods
+  - Conversational AI
 
 education:
-  - area: Research Postgraduate Student
+  - area: PhD Student
     institution: Hong Kong Polytechnic University
     summary: |
       - Supervised by Prof Li Qing and Dr Zhang Chen.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: BSc (Hons) in Maths and Data Science
+  - area: BSc (Hons) in Mathematics
     institution: University of Nottingham
     date_start: 2021-09-01
     date_end: 2024-06-01

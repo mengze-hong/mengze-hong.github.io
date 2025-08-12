@@ -1,16 +1,15 @@
 ---
-title: 'Dial-In LLM: Human-Aligned Dialogue Intent Clustering with LLM-in-the-loop'
+title: 'Dial-In LLM: Human-Aligned LLM-in-the-loop Intent Clustering for Customer Service Dialogues'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Yuanfeng Song
-  - Di Jiang
   - Wailing Ng
-  - Yanjie Sun
   - Chen Jason Zhang
+  - Yuanfeng Song
+  - DiJiang
 
 # Author notes (optional)
 # author_notes:
@@ -32,7 +31,7 @@ publication_types: ['paper-conference']
 publication: "preprint"
 publication_short: ""
 
-abstract: The discovery of customer intention from dialogue plays an important role in automated support system. However, traditional text clustering methods are poorly aligned with human perceptions due to the shift from embedding distance to semantic distance, and existing quantitative metrics for text clustering may not accurately reflect the true quality of intent clusters. In this paper, we leverage the superior language understanding capabilities of Large Language Models (LLMs) for designing better-calibrated intent clustering algorithms. We first establish the foundation by verifying the robustness of fine-tuned LLM utility in semantic coherence evaluation and cluster naming, resulting in an accuracy of 97.50% and 94.40%, respectively, when compared to the human-labeled ground truth. Then, we propose an iterative clustering algorithm that facilitates cluster-level refinement and the continuous discovery of high-quality intent clusters. Furthermore, we present several LLM-in-the-loop semi-supervised clustering techniques tailored for intent discovery from customer service dialogue. Experiments on a large-scale industrial dataset comprising 1,507 intent clusters demonstrate the effectiveness of the proposed techniques. The methods outperformed existing counterparts, achieving 6.25% improvement in quantitative metrics and 12% enhancement in application-level performance when constructing an intent classifier.
+abstract: Discovering customer intentions in dialogue conversations is crucial for automated service agents. However, existing intent clustering methods often fail to align with human perceptions due to a heavy reliance on embedding distance metrics and a tendency to overlook underlying semantic structures. This paper proposes an LLM-in-the-loop (LLM-ITL) intent clustering framework, integrating the semantic understanding capabilities of LLMs into conventional clustering algorithms. Specifically, this paper (1) investigates the effectiveness of fine-tuned LLMs in semantic coherence evaluation and intent cluster naming, achieving over 95% accuracy aligned with human judgments; (2) designs an LLM-ITL framework that facilitates the iterative discovery of coherent intent clusters and the optimal number of clusters; and (3) proposes context-aware techniques tailored for customer service dialogue. As existing English benchmarks offer limited semantic diversity and intent groups, we introduce a comprehensive Chinese dialogue intent dataset, comprising over 100k real customer service calls and 1,507 human-annotated intent clusters. The proposed approaches significantly outperform LLM-guided baselines, achieving notable enhancements in clustering quality and lower computational cost. Combined with several best practices, our findings highlight the potential of LLM-in-the-loop techniques for scalable and human-aligned intent clustering. 
 
 # Summary. An optional shortened abstract.
 
@@ -57,11 +56,11 @@ url_pdf: 'https://arxiv.org/abs/2412.09049'
 # url_video: 'https://youtube.com'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: 'Model architect: (a) CNN10 for infant cry detection, (b) CNN14 for infant cry classification, (c) Knowledge Distillation for model compression.'
-#   focal_point: ''
-#   preview_only: false
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: "Overview of proposed LLM-in-the-loop Dialogue Intent Clustering."
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
