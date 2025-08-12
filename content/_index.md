@@ -19,29 +19,36 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       I'm a passionate research student dedicated to developing trustworthy AI systems with LLMs. My research is grounded in the LLM-in-the-loop technique, which incorporates the human-like capabilities of LLMs into traditional data mining pipelines for enhanced performance and interpretability.
-
-  #       In addition to theoretical research, I apply a range of optimization methods to comprehensively investigate the role of computer technologies in the banking industry, with a particular focus on customer service support systems.
-        
-  #       Please reach out to collaborate 😃
-  #   design:
-  #     columns: '1'
+        color: white
+        # image:
+        #   # Add your image background to `assets/media/`.
+        #   filename: stacked-peaks.svg
+        #   filters:
+        #     brightness: 1.0
+        #   size: cover
+        #   position: center
+        #   parallax: false
+  - block: markdown
+    content:
+      title: 'News'
+      subtitle: ''
+      text: |-
+        [2025.07] Invited to become a columnist for 香港文匯報 (Wenhui Daily), sharing insights on [AI and the Web3 ecosystem in the era of LLMs](https://www.wenweipo.com/a/202507/15/AP68756546e4b0eba3f09a8f8a.html).
+        [2025.05] Got three papers accepted by ACL 2025, congrats to all co-authors🎉!
+        [2025.02] Released TokenSkip, enabling LLMs to skip less important tokens during CoT generation🔥.
+        [2025.01] Got one paper accepted by ICLR 2025.
+        [2025.01] We will organize a tutorial on Speculative Decoding at COLING 2025. See you in Abu Dhabi👏!
+        [2024.10] Released SWIFT: on-the-fly self-speculative decoding for LLM inference acceleration.
+        [2024.09] Got four papers accepted by EMNLP 2024.
+        [2024.05] Got two papers accepted by ACL 2024.
+        [2024.01] Released Spec-Bench: a comprehensive benchmark for Speculative Decoding.
+        [2024.01] Released our new survey 📖 on Speculative Decoding.
+        [2024.01] Started my Ph.D. study at the NLP Group @ PolyU, supervised by Prof. Wenjie Li.
+        [2023.10] Got three papers accepted by EMNLP 2023.
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:
