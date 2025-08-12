@@ -1,6 +1,6 @@
 ---
 title:  ✈️ A paper is accepted by ACML 2024. See you in Hanoi, Vietnam!
-summary: Meeting Jensen Huang, the CEO and President of NVIDIA.
+summary: Meeting c.
 date: 2024-12-06
 authors:
   - admin
@@ -11,131 +11,16 @@ image:
   caption: 'Image credit: [**Mengze Hong**]'
 ---
 
-(https://proceedings.mlr.press/v260/hong25a.html)
+Excited to announce our paper [**InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries**](https://proceedings.mlr.press/v260/hong25a.html) accepted at ACML 2024 in Hanoi, Vietnam. Addresses challenges in detecting and classifying infant cries amid noise and data scarcity. It was especially fortunate to have met and had a brief conversation with Jensen Huang, the CEO and President of NVIDIA, gaining valuable insights into the future of AI.
 
+### Framework Overview
+InfantCryNet uses pre-trained audio models for feature extraction. Employs CNN-10 for detection and CNN-14 for classification into six reasons: awake, hug, sleepy, uncomfortable, diaper, hungry. Introduces statistic pooling and multi-head attention pooling for better feature aggregation. Applies knowledge distillation and quantization for model compression.
 
-Create a personal knowledge base and share your knowledge with your peers.
+### Experiments
+Datasets: 6,600 clips for detection (6,000 train, 600 test); 835 clips for classification (750 train, 85 test). Baselines: CNN-10, ResNet-22, Wavegram-Logmel-CNN. Trained with Adam optimizer on GPUs.
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+### Results
+Detection: 99.8% accuracy for both CNN-10 and CNN-14. Classification: CNN-14 with pretraining achieves 74.73%, outperforming baselines by 4.4%. Statistic pooling best at 74.73%. Compression: Quantization reduces size 7% no accuracy loss; distillation + quantization reduces 28% with 8% accuracy drop.
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
-
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
-
-## Mindmaps
-
-Hugo Blox supports a Markdown extension for mindmaps.
-
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
-
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-
-## Highlighting
-
-<mark>Highlight</mark> important text with `mark`:
-
-```html
-<mark>Highlighted text</mark>
-```
-
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
-
-```markdown
-{{%/* callout note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /callout */%}}
-```
-
-renders as
-
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-Or use the `warning` callout type so your readers don't miss critical details:
-
-{{% callout warning %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-## Did you find this page helpful? Consider sharing it 🙌
+### Discussion
+Framework enhances efficiency for mobile deployment. Suggests hybrid models and federated learning for future work.

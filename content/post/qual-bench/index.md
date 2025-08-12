@@ -1,5 +1,5 @@
 ---
-title: 📈 Released QualBench benchmarking Chinese LLMs with localized professional qualifications for vertical domain evaluation. 
+title: 📈 Released QualBench - benchmarking Chinese LLMs with localized professional qualifications. 
 summary: Open-sourced Chinese LLMs (e.g., Qwen-7B) outperformed strongher English LLMs (e.g., GPT4o) in localized Chinese qualification exams!
 date: 2025-05-08
 authors:
@@ -21,5 +21,11 @@ Data from 24 exams, spanning up to 10 years. Preprocessed to exclude non-textual
 Evaluated five Chinese LLMs (ChatGLM3, Qwen2.5, Baichuan2, Hunyuan-v2, Deepseek-v2) and four non-Chinese (Mistral-7B, LLaMA-7B, GPT-3.5, GPT-4o). One-shot prompting as Chinese domain experts. Also tested LLM crowdsourcing via majority and weighted voting.
 
 {{% callout note %}}
-Qwen2.5-7B topped at 75.26% accuracy, outperforming GPT-4o (61.61%). Chinese models beat non-Chinese, emphasizing localized knowledge. Crowdsourcing underperformed single strong models. Stronger in single-choice; weaker in multiple-choice.
+
+Qwen2.5-7B topped at 75.26% accuracy, outperforming GPT-4o (61.61%). 
+
+Chinese models beat non-Chinese, emphasizing localized knowledge. 
+
+Crowdsourcing underperformed single strong models. 
+
 {{% /callout %}}
