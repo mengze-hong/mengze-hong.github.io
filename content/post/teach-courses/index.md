@@ -1,137 +1,28 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: 👩🏼‍🏫 Overview of my research journey.
+summary: Updated on August 12, 2025.
+date: 2025-08-12
 math: true
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox Builder
-  - Markdown
+  - AI
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Image credit: [**Mengze Hong**]'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+[2025.05] Released [QualBench](https://arxiv.org/abs/2505.05225): benchmarking Chinese LLMs with localized professional qualifications for vertical domain evaluation.  
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+[2025.04] Three papers on "LLM x Music Education" are accepted by [AIED 2025](https://link.springer.com/chapter/10.1007/978-3-031-98462-4_19), ISLS 2025 and [CHI 2025 (workshop)](https://arxiv.org/abs/2504.00636), congrats to all co-authors🎉. 
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+[2025.02] A paper is accepted by [NAACL 2025](https://aclanthology.org/2025.naacl-industry.71/#).  
 
-## Video
+[2025.01] A position paper on [LLM-in-the-Loop](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174495034.42657551) is released, presenting the first formal definition, motivations, and research taxonomy for this emerging methodology.
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+[2024.12] Released [Dial-In LLM](https://arxiv.org/abs/2412.09049v1): large-scale Chinese customer service intent clustering benchmark with LLM-in-the-Loop solutions.
 
-**Youtube**:
+[2024.09] A paper is accepted by [ACML 2024](https://proceedings.mlr.press/v260/hong25a.html).  
 
-    {{</* youtube D2vj0WcvH5c */>}}
+[2024.09] Started my Ph.D study at the PolyU, supervised by Prof. Qing Li and Prof. Chen Jason Zhang.  
 
-{{< youtube D2vj0WcvH5c >}}
-
-**Bilibili**:
-
-    {{</* bilibili BV1WV4y1r7DF */>}}
-
-{{< bilibili BV1WV4y1r7DF >}}
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="my_video.mp4" controls="yes" */>}}
-
-## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{</* audio src="ambient-piano.mp3" */>}}
-
-Try it out:
-
-{{< audio src="ambient-piano.mp3" >}}
-
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
-## Math
-
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
-
-```yaml
-features:
-  math:
-    enable: true
-```
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
-
-Example **math block**:
-
-```latex
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-```
-
-renders as
-
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-
-Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathbf{x}_{n})$.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-```
-
-renders as
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
-
-renders as
-
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
-
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌
+[2024.06] Started my NLP Researcher internship at the WeBank AI Group, supervised by Dr. Di Jiang.

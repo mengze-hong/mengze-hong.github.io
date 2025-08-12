@@ -47,16 +47,18 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
-research:
+interests:
   - NLP and Data Mining
   - LLM-in-the-Loop Methods
   - Conversational AI
 
 education:
-  - area: PhD Student
+  - area: PhD in Computing
     institution: Hong Kong Polytechnic University
+    date_start: 2024-09-01
+    date_end: ''
     summary: |
-      - Supervised by Prof Li Qing and Dr Zhang Chen.
+      Supervised by Prof Li Qing and Dr Zhang Chen.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -65,32 +67,43 @@ education:
     date_start: 2021-09-01
     date_end: 2024-06-01
     summary: |
-      - First Class Honours Degree (GPA: 3.94 / 4)
-      - Dean's Excellence Scholarship Award
-      - Best Student Award
+      Achieved first class honours degree (GPA: 3.94 / 4.0) with Dean's Excellence Scholarship Award and Faculty Best Student Award.
   
-#work:
- # - position: AI Researcher
-  #  company_name: WeBank AI Group
-   # company_url: 'https://www.webank.com/en/'
-    #company_logo: ''
-    # date_start: 2024-06-01
-    # date_end: ''
-    # summary: |2-
-    #   Responsibilities include:
-    #   - Carried out large-scale industrial data processing and modelling.
-    #   - Developed customer service chatbots for banking service using Large Language Models.
-  #- position: Strategy Analyst
-   # company_name: Luckin Coffee Inc.
-    #company_url: 'https://www.luckincoffee.com/'
-    #company_logo: ''
-    #date_start: 2023-06-01
-    #date_end: 2023-09-01
-    # summary: |
-    #   Responsibilities include:
-    #   - Analyzed the Chinese coffee market  to provide strategic insights for informed decision-making.
-    #   - Predicted the coffee market trend in Singapore  to reveal optimal oversea expansion strategies.
-    #   - Extracted and analyzed large datasets using Python and web scraping techniques.
+  
+work:
+  - position: Consultant
+    company_name: HashKey Exchange
+    company_url: 'https://www.hashkey.com/'
+    company_logo: ''
+    date_start: 2025-03-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Deliverd regular training sessions on topics related to AI, Web3, and Virtual Assets.
+      - Provided advice on drafting analytical reports regarding AI applications in the Web3 industry.
+      - Provided advice in relation to promoting research advancements through media channels such as newspapers, digital news platforms, and podcasts/video recordings.
+  - position: NLP Researcher
+    company_name: WeBank, AI Group
+    company_url: 'https://www.webank.com/en/'
+    company_logo: ''
+    date_start: 2024-06-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Carried out large-scale industrial data processing and modelling.
+      - Developed customer service chatbots for banking service using Large Language Models.
+      - Optimized Automatic Speech Recognition (ASR) systems with Federated Learning and LLM driven post-correction.
+  - position: Market Strategy Analyst
+    company_name: Luckin Coffee Inc.
+    company_url: 'https://www.luckincoffee.com/'
+    company_logo: ''
+    date_start: 2023-06-01
+    date_end: 2023-09-01
+    summary: |
+      Responsibilities include:
+      - Analyzed the Chinese coffee market  to provide strategic insights for informed decision-making.
+      - Predicted the coffee market trend in Singapore  to reveal optimal oversea expansion strategies.
+      - Extracted and analyzed large datasets using Python and web scraping techniques.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -99,7 +112,7 @@ education:
 #     items:
 #       - name: Python
 #         description: ''
-#         percent: 80
+#         percent: 100
 #         icon: code-bracket
 #       - name: Data Science
 #         description: ''
@@ -107,7 +120,7 @@ education:
 #         icon: chart-bar
 #       - name: SQL
 #         description: ''
-#         percent: 40
+#         percent: 60
 #         icon: circle-stack
 #   - name: Hobbies
 #     color: '#eeac02'
@@ -126,13 +139,13 @@ education:
 #         percent: 80
 #         icon: camera
 
-# languages:
-#   - name: Chinese
-#     percent: 100
-#   - name: English
-#     percent: 80
-#   - name: French
-#     percent: 25
+languages:
+  - name: Mandrain
+    percent: 100
+  - name: English
+    percent: 80
+  - name: French
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -168,5 +181,5 @@ education:
 
 ## About Me
 
-Mengze Hong is a research student at PolyU, in collaboration with WeBank AI Group, a leading research lab for technology-driven financial ecosystems. His research focuses on the technical innovations and practical applications of various Large Language Models (LLMs) and Trustworthy AI methods, aiming to create positive impacts at the intersection of computer technologies and the banking industry. 
+Mengze Hong is a PhD candidate at PolyU, in collaboration with WeBank AI Group, a leading research lab for technology-driven financial ecosystems. His research focuses on the technical innovations and practical applications of various Large Language Models (LLMs) and Trustworthy AI methods, aiming to create positive impacts at the intersection of computer technologies and the finance industry. 
 <!-- His work in customer service support and chatbot systems has gained wide recognition for addressing common challenges such as customer intent discovery, automated service rating, and zero-hallucination generation in the financial domain. -->

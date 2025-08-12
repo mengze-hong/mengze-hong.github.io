@@ -19,39 +19,17 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
-        color: white
-        # image:
-        #   # Add your image background to `assets/media/`.
-        #   filename: stacked-peaks.svg
-        #   filters:
-        #     brightness: 1.0
-        #   size: cover
-        #   position: center
-        #   parallax: false
-  - block: markdown
-    content:
-      title: 'News'
-      subtitle: ''
-      text: |-
-        [2025.07] Invited to become a columnist for 香港文匯報 (Wenhui Daily), sharing insights on [AI and the Web3 ecosystem in the era of LLMs](https://www.wenweipo.com/a/202507/15/AP68756546e4b0eba3f09a8f8a.html).
-
-        [2025.05] Released [QualBench](https://arxiv.org/abs/2505.05225): benchmarking Chinese LLMs with localized professional qualifications for vertical domain evaluation.  
-
-        [2025.04] Three papers on "LLM x Music Education" are accepted by [AIED 2025](https://link.springer.com/chapter/10.1007/978-3-031-98462-4_19), ISLS 2025 and [CHI 2025 (workshop)](https://arxiv.org/abs/2504.00636), congrats to all co-authors🎉. 
-
-        [2025.02] A paper is accepted by [NAACL 2025](https://aclanthology.org/2025.naacl-industry.71/#).  
-
-        [2025.01] A position paper on [LLM-in-the-Loop](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174495034.42657551) is released, presenting the first formal definition, motivations, and research taxonomy for this emerging methodology.
-
-        [2024.12] Released [Dial-In LLM](https://arxiv.org/abs/2412.09049v1): large-scale Chinese customer service intent clustering benchmark with LLM-in-the-Loop solutions.
-
-        [2024.09] A paper is accepted by [ACML 2024](https://proceedings.mlr.press/v260/hong25a.html).  
-
-        [2024.09] Started my Ph.D study at the PolyU, supervised by Prof. Qing Li and Prof. Chen Jason Zhang.  
-        
-        [2024.06] Started my NLP Researcher internship at the WeBank AI Group, supervised by Dr. Di Jiang.
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 
     design:
       columns: '1'
@@ -66,6 +44,36 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+  - block: collection
+    id: news
+    content:
+      title: Recent News
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: post
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   # - block: collection
   #   id: talks
   #   content:
