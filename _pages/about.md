@@ -32,15 +32,15 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 **QualBench: Benchmarking Chinese LLMs with Localized Professional Qualifications**  
 **<ins>Mengze Hong</ins>**, Wailing Ng, Chen Jason Zhang, Di Jiang  
-EMNLP 2025 (Main). [[link]](https://arxiv.org/abs/2505.05225)
+EMNLP 2025 (Main). [[link]](https://arxiv.org/abs/2505.05225) [[code]](https://github.com/mengze-hong/QualBench)
 
 **Dial-In LLM: Human-Aligned LLM-in-the-loop Intent Clustering for Customer Service Dialogues**  
 **<ins>Mengze Hong</ins>**, Wailing Ng, Chen Jason Zhang, Yuanfeng Song, Di Jiang  
-EMNLP 2025 (Main). [[link]](https://arxiv.org/abs/2412.09049)
+EMNLP 2025 (Main). [[link]](https://arxiv.org/abs/2412.09049) [[code]](https://github.com/mengze-hong/Dial-in-LLM)
 
 **Dialogue Language Model with Large-Scale Persona Data Engineering**  
 **<ins>Mengze Hong</ins>**, Chen Jason Zhang, Chaotao Chen, Rongzhong Lian, Di Jiang  
-NAACL 2025 (Industry). [[link]](aclanthology.org/2025.naacl-industry.71/#) [[code]](https://github.com/EIT-NLP/Awesome-Latent-CoT)
+NAACL 2025 (Industry). [[link]](aclanthology.org/2025.naacl-industry.71/#) 
 
 **InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries**  
 **<ins>Mengze Hong</ins>**, Chen Jason Zhang, Lingxiao Yang, Yuanfeng Song, Di Jiang  
