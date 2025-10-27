@@ -26,10 +26,10 @@ My research focuses on making LLMs more accessible for practical use in a cost-e
 
 # News
 **[2025.09]** Got three papers accepted by EMNLP 2025 (2 Main + 1 Industry) 🎉   
-**[2025.07]** Invited by 香港文匯報 to serve a columnist for [**AI x Web3**](https://www.wenweipo.com/a/202509/16/AP68c872cfe4b0d1061ae2d0b4.html) 😎.  
-**[2025.04]** Got two papers accepted on the topic of **LLM x Music Education**  🎉 .   
+**[2025.07]** Invited by 香港文匯報 to serve a columnist for [AI x Web3](https://www.wenweipo.com/a/202509/16/AP68c872cfe4b0d1061ae2d0b4.html) 😎.  
+**[2025.04]** Got two papers accepted on the topic of LLM x Music Education  🎉 .   
 **[2025.02]** Got one paper accepted by [NAACL 2025 Industry Track](https://aclanthology.org/2025.naacl-industry.71/#) 🎉.  
-**[2024.09]** Got one paper accepted by [ACML 2024](https://proceedings.mlr.press/v260/hong25a.html) 🎉.
+**[2024.09]** Got one paper accepted by [ACML 2024](https://proceedings.mlr.press/v260/hong25a.html) 🎉.     
 **[2024.09]** Started my Ph.D study at the PolyU.   
 **[2024.06]** Started my research internship at the WeBank AI Group. 
 
