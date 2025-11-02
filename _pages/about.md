@@ -25,7 +25,7 @@ My research focuses on making LLMs more accessible for practical use in a cost-e
 
 
 # News
-**[2025.09]** Three papers are accepted by EMNLP 2025 (2 Main + 1 Industry) 🎉. 
+**[2025.09]** Three papers are accepted by EMNLP 2025 (2 Main + 1 Industry) 🎉.    
 **[2025.07]** Invited by 香港文匯報 to serve a columnist for [AI x Web3](https://www.wenweipo.com/a/202509/16/AP68c872cfe4b0d1061ae2d0b4.html) 😎.  
 **[2025.04]** Two papers are accepted on the topic of LLM x Music Education 🎉.   
 **[2025.02]** A paper is accepted by [NAACL 2025 Industry Track](https://aclanthology.org/2025.naacl-industry.71/#) 🎉.  
