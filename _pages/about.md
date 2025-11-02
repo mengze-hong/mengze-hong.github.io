@@ -21,7 +21,7 @@ My research focuses on making LLMs more accessible for practical use in a cost-e
 
 - **Dialogue Model Optimization**: Investigating novel design principles to optimize dialogue models in the LLM era for improved applications in customer service and call centers. This includes [persona augmentation](https://aclanthology.org/2025.naacl-industry.71/), [knowledge expansion](https://arxiv.org/abs/2410.12444v3), [query correction](https://arxiv.org/abs/2509.04393), and enhanced contextual guidance.
 
-- **Interdisciplinary Applications of LLMs**: Investigating the use of LLMs across multidisciplinary domains, with recent work focusing on LLMs for Education and LLMs for Scholars. This line of research aims to develop tools that promote the ethical use of LLMs and enhance research workflow efficiency through an LLM-in-the-loop design philosophy.
+- **Interdisciplinary Applications of LLMs**: Investigating the use of LLMs across multidisciplinary domains, with recent work focusing on LLMs for Education and LLMs for Scholars. This line of research aims to develop tools that promote the ethical use of LLMs in enhancing research workflow efficiency through an LLM-in-the-loop design philosophy.
 
 
 # News
