@@ -47,8 +47,6 @@ EMNLP 2025 (Industry). [[link]](https://aclanthology.org/2025.emnlp-industry.51/
 **Mengze Hong**, Chen Jason Zhang, Chaotao Chen, Rongzhong Lian, Di Jiang  
 NAACL 2025 (Industry). [[link]](aclanthology.org/2025.naacl-industry.71/#) 
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=353&t=tt&d=s_ybn_FbWtujEa3ooOnSB8YSe_bL6lcHM9Nn5g2LvXU&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
-
 # 🫡 Professional Services
 
 Teaching assistant (TA) of **Advanced Big Data Computing** (2025 Spring) and **Business Intelligence and Customer Relationship Management** (2025 Fall).
@@ -59,3 +57,5 @@ Teaching assistant (TA) of **Advanced Big Data Computing** (2025 Spring) and **B
 - From Concept to Reality: Blockchain Applications in Supply Chain, Healthcare, and Hospitality. (Seminar, SHTM. 2025)    
 
 Conference Reviewer for ACL 2026, EMNLP 2025, NAACL 2025
+
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=353&t=tt&d=s_ybn_FbWtujEa3ooOnSB8YSe_bL6lcHM9Nn5g2LvXU&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
