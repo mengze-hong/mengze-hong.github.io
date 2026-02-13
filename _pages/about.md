@@ -26,11 +26,13 @@ My research interests include:
 
 If you are interested in any form of academic collaboration, please feel free to reach out via [email](mailto:mengze.hon@connect.polyu.hk).
 
-
-<!-- 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+**[2026.01]** Got one papers accepted by [ICASSP 2026](/)🎉.     
+**[2026.01]** Got three papers accepted by [TheWebConf 2026](/) 🎉.     
+**[2025.09]** Got three papers accepted by [EMNLP 2025](https://aclanthology.org/people/mengze-hong/)🎉.     
+**[2025.04]** Got two papers accepted on the topic of [LLM x Music Education](https://link.springer.com/chapter/10.1007/978-3-031-98462-4_19) 🎉.   
+**[2025.02]** Got one paper accepted by [NAACL 2025 Industry Track](https://aclanthology.org/2025.naacl-industry.71/#) 🎉.  
+**[2024.09]** Got one paper paper accepted by [ACML 2024](https://proceedings.mlr.press/v260/hong25a.html) 🎉. 
 
 # 📝 Selected Publications 
 More publications on [Google Scholar](https://scholar.google.com/citations?user=2_sHYb0AAAAJ&hl=en).  
