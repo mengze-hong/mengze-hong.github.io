@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Mengze Hong, a Ph.D candidate in the [Department of Computing](https://www.polyu.edu.hk/comp/) at The Hong Kong Polytechnic University, supervised by [Prof. Qing Li](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing/?sc_lang=en) and [Prof. Chen Jason Zhang](https://www.polyu.edu.hk/comp/people/academic-staff/prof-zhang-chen-jason/?sc_lang=en). I received my bachelor's degree with first-class honors from the University of Nottingham in 2024. Before joining PolyU, I worked as a Research Intern at the WeBank AI Group, collaborating closely with [Prof. Di Jiang](https://www.polyu.edu.hk/comp/people/academic-staff/prof-jiang-di/?sc_lang=en) on advancing LLM applications in banking and customer service. For more details, please refer to my [CV](https://mengze-hong.github.io/files/CV.pdf).
+Hi, I am Mengze Hong, a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at The Hong Kong Polytechnic University, supervised by [Prof. Qing Li](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing/?sc_lang=en) and [Prof. Chen Jason Zhang](https://www.polyu.edu.hk/comp/people/academic-staff/prof-zhang-chen-jason/?sc_lang=en). I received my bachelor's degree with first-class honors from the University of Nottingham in 2024. Before joining PolyU, I worked as a Research Intern at the WeBank AI Group, collaborating closely with [Prof. Di Jiang](https://www.polyu.edu.hk/comp/people/academic-staff/prof-jiang-di/?sc_lang=en) on advancing LLM applications in banking and customer service. For more details, please refer to my [CV](https://mengze-hong.github.io/files/CV.pdf).
 
 
 My research interests include:
@@ -37,31 +37,31 @@ More publications on [Google Scholar](https://scholar.google.com/citations?user=
 
 ### Orchestration-Free Customer Service Automation: A Privacy-Preserving and Flowchart-Guided Framework  
 
-**Mengze Hong**, Chen Jason Zhang, Zichang Guo, Hanlin Gu, Di Jiang, Li Qing  
+<u>Mengze Hong</u>, Chen Jason Zhang, Zichang Guo, Hanlin Gu, Di Jiang, Li Qing  
 
 **TheWebConf 2026**, in the Proceedings of the ACM Web Conference 2026
 
 ### Federated Heterogeneous Language Model Optimization For Hybrid Automatic Speech Recognition  
 
-**Mengze Hong**, Yi Gu, Di Jiang, Hanlin Gu, Chen Jason Zhang, Lu Wang, Zhiyang Su  
+<u>Mengze Hong</u>, Yi Gu, Di Jiang, Hanlin Gu, Chen Jason Zhang, Lu Wang, Zhiyang Su  
 
 **ICASSP 2026**, in the Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing 2026
 
 ### Dial-In LLM: Human-Aligned LLM-in-the-loop Intent Clustering for Customer Service Dialogues  
 
-**Mengze Hong**, Wailing Ng, Chen Jason Zhang, Yuanfeng Song, Di Jiang    
+<u>Mengze Hong</u>, Wailing Ng, Chen Jason Zhang, Yuanfeng Song, Di Jiang    
 
 **EMNLP 2025**, in the Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
 
 ### QualBench: Benchmarking Chinese LLMs with Localized Professional Qualifications  
 
-**Mengze Hong**, Wailing Ng, Chen Jason Zhang, Di Jiang   
+<u>Mengze Hong</u>, Wailing Ng, Chen Jason Zhang, Di Jiang   
 
 **EMNLP 2025**, in the Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
 
 ### Augmenting Compliance-Guaranteed Customer Service Chatbots: Context-Aware Knowledge Expansion with LLMs  
 
-**Mengze Hong**, Chen Jason Zhang, Di Jiang, Yuanqin He   
+<u>Mengze Hong</u>, Chen Jason Zhang, Di Jiang, Yuanqin He   
 
 **EMNLP 2025**, in the Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
 
