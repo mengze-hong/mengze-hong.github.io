@@ -103,7 +103,8 @@ More publications on [Google Scholar](https://scholar.google.com/citations?user=
 - *2021.09 - 2024.06*, BSc (Hons) Mathematics and Data Science, University of Nottingham. GPA: 3.98/4.0
 
 # 💻 Experiences
-- *2024.06 - 2025.10*, Research Intern at AI Group, Webank
+- *2026.03 - present*, Research Intern (Project UP / Qingyun), Yuanbao Team, Tencent
+- *2024.06 - 2025.10*, NLP Research Intern, AI Group, WeBank
 
 # 🎖 Honors and Awards
 - *2024.06* Faculty Best Student Award (top 1%), University of Nottingham
