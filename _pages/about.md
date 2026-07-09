@@ -27,6 +27,7 @@ My research interests include:
 If you are interested in any form of academic collaboration, please feel free to reach out via [email](mailto:mengze.hon@connect.polyu.hk).
 
 # 🔥 News
+**[2026.06]** Released [UXBench](https://arxiv.org/abs/2606.09570), a preprint benchmarking user experience in AI assistants 🎉.  
 **[2026.01]** Got one papers accepted by [ICASSP 2026](/)🎉.     
 **[2026.01]** Got three papers accepted by [TheWebConf 2026](/) 🎉.     
 **[2025.09]** Got three papers accepted by [EMNLP 2025](https://aclanthology.org/people/mengze-hong/)🎉.     
@@ -36,6 +37,12 @@ If you are interested in any form of academic collaboration, please feel free to
 
 # 📝 Selected Publications 
 More publications on [Google Scholar](https://scholar.google.com/citations?user=2_sHYb0AAAAJ&hl=en).  
+
+### UXBench: Benchmarking User Experience in AI Assistants
+
+<u>Mengze Hong</u>, Zeng Xia, Zeyang Lei, Sheng Wang, Chen Jason Zhang, Di Jiang, et al.
+
+**Preprint** (arXiv 2026) \| [\[paper\]](https://arxiv.org/abs/2606.09570)
 
 ### Orchestration-Free Customer Service Automation: A Privacy-Preserving and Flowchart-Guided Framework  
 
@@ -57,7 +64,7 @@ More publications on [Google Scholar](https://scholar.google.com/citations?user=
 
 ### Federated Heterogeneous Language Model Optimization For Hybrid Automatic Speech Recognition  
 
-<u>Mengze Hong</u>, Yi Gu, Di Jiang, Hanlin Gu, Chen Jason Zhang, Lu Wang, Ziyang Su  
+<u>Mengze Hong</u>, Yi Gu, Di Jiang, Hanlin Gu, Chen Jason Zhang, Lu Wang, Zhiyang Su  
 
 **ICASSP 2026**, in the Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing 2026
 
