@@ -27,7 +27,7 @@ My research interests include:
 If you are interested in any form of academic collaboration, please feel free to reach out via [email](mailto:mengze.hon@connect.polyu.hk).
 
 # 🔥 News
-**[2026.06]** Released [UXBench](https://arxiv.org/abs/2606.09570), a preprint benchmarking user experience in AI assistants 🎉.  
+**[2026.06]** Released [UXBench](https://arxiv.org/abs/2606.09570), a benchmark for evaluating user experience in AI assistants 🎉.  
 **[2026.01]** Got one papers accepted by [ICASSP 2026](/)🎉.     
 **[2026.01]** Got three papers accepted by [TheWebConf 2026](/) 🎉.     
 **[2025.09]** Got three papers accepted by [EMNLP 2025](https://aclanthology.org/people/mengze-hong/)🎉.     
