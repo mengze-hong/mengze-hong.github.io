@@ -50,24 +50,6 @@ More publications on [Google Scholar](https://scholar.google.com/citations?user=
 
 **TheWebConf 2026** (Oral), in the Proceedings of the ACM Web Conference 2026
 
-### Multimodal Peer Review Simulation with Actionable and Community-Aware To-Do Recommendations
-
-<u>Mengze Hong</u>, Di Jiang, Weiwei Zhao, Yawen Li, Yanjie Sun, Chen Jason Zhang  
-
-**TheWebConf 2026** (Demo), in the Proceedings of the ACM Web Conference 2026
-
-### CiteLLM: An Agentic Platform for Trustworthy Scientific Reference Discovery
-
-<u>Mengze Hong</u>, Di Jiang, Chen Jason Zhang, Yawen Li, Shaobo Cui, Zhiyang Su  
-
-**TheWebConf 2026** (Demo), in the Proceedings of the ACM Web Conference 2026
-
-### Federated Heterogeneous Language Model Optimization For Hybrid Automatic Speech Recognition  
-
-<u>Mengze Hong</u>, Yi Gu, Di Jiang, Hanlin Gu, Chen Jason Zhang, Lu Wang, Zhiyang Su  
-
-**ICASSP 2026**, in the Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing 2026
-
 ### Dial-In LLM: Human-Aligned LLM-in-the-loop Intent Clustering for Customer Service Dialogues  
 
 <u>Mengze Hong</u>, Wailing Ng, Chen Jason Zhang, Yuanfeng Song, Di Jiang    
@@ -79,24 +61,6 @@ More publications on [Google Scholar](https://scholar.google.com/citations?user=
 <u>Mengze Hong</u>, Wailing Ng, Chen Jason Zhang, Di Jiang   
 
 **EMNLP 2025**, in the Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
-
-### Augmenting Compliance-Guaranteed Customer Service Chatbots with Context-Aware Knowledge Expansion  
-
-<u>Mengze Hong</u>, Chen Jason Zhang, Di Jiang, Yuanqin He   
-
-**EMNLP 2025**, in the Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
-
-### Dialogue Language Model with Large-Scale Persona Data Engineering
-
-<u>Mengze Hong</u>, Chen Jason Zhang, Chaotao Chen, Rongzhong Lian, Di Jiang  
-
-**NAACL 2025** (Industry Track), in the Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the ACL
-
-### InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries
-
-<u>Mengze Hong</u>, Chen Jason Zhang, Lingxiao Yang, Yuanfeng Song, Di Jiang  
-
-**ACML 2024**, in the Proceedings of the 16th Asian Conference on Machine Learning
 
 # 📖 Educations
 - *2024.09 - present*, Ph.D student in Computing, The Hong Kong Polytechnic University
