@@ -22,7 +22,7 @@ Hi, I am Mengze Hong, a PhD student in the [Department of Computing](https://www
 
 My research interests include:
 - **LLM application and benchmarking**, especially user-centric evaluation and alignment.
-- **Speech Processing**, especially ASR in service systems.
+- **Dialogue System**, especially task-oriented dialogue and speech technologies.
 
 If you are interested in any form of academic collaboration, please feel free to reach out via [email](mailto:mengze.hon@connect.polyu.hk).
 
